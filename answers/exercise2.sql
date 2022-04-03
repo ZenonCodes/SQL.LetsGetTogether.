@@ -1,0 +1,1 @@
+SELECT * FROM Enrolments INNER Students ON Enrolments.StudentID=Students.StudentID;
